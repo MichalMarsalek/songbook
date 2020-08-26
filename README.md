@@ -27,5 +27,5 @@ One can transpose a song by `k` halftones by postfixing the line with `/k`.
 All that the mapping from human names to URLs is doing is stripping any accents or commas, converting to lowercase and replacing spaces with hyphens. Be sure to check that the song is actually on pisnikcy-akordy.cz and that the name of the artist and the song is the same as it is on pisnicky-akordy.cz.  
 The main drawback of this method is that the PDFs are huge. To mitigate this I recommend using [this service](https://www.pdf2go.com/compress-pdf).
 
-##Dependencies  
+## Dependencies
 pdfrw
